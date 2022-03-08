@@ -4,7 +4,7 @@ This program keeps track of product inventory. It gives options to add, edit, de
 
 The purpose of this program was to display a basic understanding of SQL Database structure.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/iC1rhxl6fP0)
 
 # Relational Database
 
